@@ -16,9 +16,11 @@
 ## 3. Mục tiêu đạt được
 
 ### 3.1. Cốt truyện, bối cảnh và nhân vật
-<img width="490" height="295" alt="Screenshot 2025-12-23 174609" src="https://github.com/user-attachments/assets/49f11cf1-0c59-421d-ad10-7b54412546e1" />
-<img width="491" height="294" alt="Screenshot 2025-12-23 180513" src="https://github.com/user-attachments/assets/bd1818a9-db71-4df6-aa44-ff5cecdc0598" />
-<img width="490" height="294" alt="Screenshot 2025-12-23 174754" src="https://github.com/user-attachments/assets/feb40522-1d75-48b4-8038-39992c2d5de2" />
+<img src="https://github.com/user-attachments/assets/e81e822e-e75f-46fe-ab48-1ee976aa64b1" width="40%"/>
+
+<img src="https://github.com/user-attachments/assets/649e2c2a-4db9-4827-81ea-734cbb7b0b12" width="40%"/>
+
+<img src="https://github.com/user-attachments/assets/6aa6d686-7440-4456-89e8-2b7b112bfe71" width="40%"/>
 
 - Xây dựng bối cảnh thế giới song song “Umbra” – không gian bóng tối với ánh sáng hiếm hoi, tạo cảm giác áp lực và nguy hiểm xuyên suốt quá trình chơi.
 - Thiết kế tuyến truyện đơn giản nhưng đủ dẫn dắt: Max bị hút vào chiều không gian VR lỗi và bị truy đuổi bởi The Devourer, mục tiêu là sống sót đủ lâu để tìm cổng thoát.
@@ -29,13 +31,13 @@
 
 | Nhân vật            | Mô tả        | Hình ảnh minh họa |
 |---------------------|--------------|----------------|
-| Max     | Max là một học sinh bình thường bị hút vào Umbra sau sự cố VR. Không có sức mạnh đặc biệt, cậu chỉ dựa vào bản năng sinh tồn và ý chí để tìm đường thoát khỏi bóng tối.     |<img width="124" height="336" alt="MaxDance" src="https://github.com/user-attachments/assets/42dc7f28-c718-40c1-890e-f397d568ce3c" /> |
-| Akio     | Akio là thiếu niên ninja bí ẩn, di chuyển nhanh và gần như vô hình trong bóng tối Umbra.     | <img width="124" height="312" alt="Akio" src="https://github.com/user-attachments/assets/7e1fbac4-ff58-4b21-9646-8fadbd5bdc83" /> |
-| RockStar     | RockStar là một rocker nổi loạn, mang tinh thần tự do và năng lượng bùng cháy giữa bóng tối.     | <img width="124" height="336" alt="Rock" src="https://github.com/user-attachments/assets/3ebb6ce9-859b-4ee7-94ef-cdffea27d8e1" />  |
-| Runubos    | Runubos là tư tế cổ đại, sử dụng biểu tượng linh thiêng để kết nối với ánh sáng bị lãng quên.     | <img width="124" height="332" alt="Runubos" src="https://github.com/user-attachments/assets/15fa5247-7ac0-4c3b-9c08-408fdc741c52" /> |
-| Stela       | Stela là cô bé ít nói với khả năng quan sát và phản xạ vượt trội, sinh tồn trong im lặng.     | <img width="124" height="336" alt="stela" src="https://github.com/user-attachments/assets/0d83c672-60cf-4bde-986e-136fcf661728" /> |
-| Kiki| Kiki là nhân viên công sở lý trí, thích nghi với Umbra bằng chiến lược và kỷ luật. | <img width="124" height="336" alt="KIki" src="https://github.com/user-attachments/assets/ae3c1e1f-15be-4fb1-8422-861bb382d692" />   |
-| Tadita | Tadita là chiến binh thổ dân, có khả năng hòa hợp với năng lượng nguyên thủy của Umbra. |  <img width="124" height="336" alt="Tadita 1" src="https://github.com/user-attachments/assets/f176a5c8-63f9-4a31-a784-5408148868dd" />|
+| Max     | Max là một học sinh bình thường bị hút vào Umbra sau sự cố VR. Không có sức mạnh đặc biệt, cậu chỉ dựa vào bản năng sinh tồn và ý chí để tìm đường thoát khỏi bóng tối.     |<img width="124" height="336" alt="529649283-42dc7f28-c718-40c1-890e-f397d568ce3c" src="https://github.com/user-attachments/assets/39fab756-5123-4ab2-805e-fa9f3f11e251" /> |
+| Akio     | Akio là thiếu niên ninja bí ẩn, di chuyển nhanh và gần như vô hình trong bóng tối Umbra.     | <img width="124" height="312" alt="akio" src="https://github.com/user-attachments/assets/a9a24615-99a1-4778-bc23-cccdbe6aef2e" /> |
+| RockStar     | RockStar là một rocker nổi loạn, mang tinh thần tự do và năng lượng bùng cháy giữa bóng tối.     | <img width="124" height="336" alt="RockStar" src="https://github.com/user-attachments/assets/a8803840-7aef-4f84-b855-fa56ad8dc9e6" /> |
+| Runubos    | Runubos là tư tế cổ đại, sử dụng biểu tượng linh thiêng để kết nối với ánh sáng bị lãng quên.     | <img width="124" height="312" alt="Runubos" src="https://github.com/user-attachments/assets/1eb07795-6130-4f88-84f0-eb9ae48c2853" /> |
+| Stela       | Stela là cô bé ít nói với khả năng quan sát và phản xạ vượt trội, sinh tồn trong im lặng.     | <img width="124" height="336" alt="Stela" src="https://github.com/user-attachments/assets/7f95ae3d-ff97-4353-9e9d-22b103ac6561" /> |
+| Kiki| Kiki là nhân viên công sở lý trí, thích nghi với Umbra bằng chiến lược và kỷ luật. | <img width="124" height="336" alt="Kiki" src="https://github.com/user-attachments/assets/7050c8b8-b61f-4864-8203-b371a37b368c" />  |
+| Tadita | Tadita là chiến binh thổ dân, có khả năng hòa hợp với năng lượng nguyên thủy của Umbra. | <img width="124" height="336" alt="Tadita" src="https://github.com/user-attachments/assets/867ae5be-e828-4478-ad80-358256b874ad" /> |
 
 ### 3.2. Core Gameplay
 - Triển khai gameplay Endless Runner góc nhìn third-person với các hành động:
@@ -47,8 +49,9 @@
 - Thiết kế hệ thống chướng ngại vật đảm bảo:
     - Độ khó tăng dần theo quãng đường/thời gian sống sót
     - Nhịp độ hợp lý: có khoảng “thở” và khoảng “dồn dập”
-<img width="1303" height="792" alt="Screenshot 2025-12-23 170109" src="https://github.com/user-attachments/assets/e845ac29-76a2-439f-b4d8-6b0fbcf3d986" />
-    
+
+![529603087-e845ac29-76a2-439f-b4d8-6b0fbcf3d986](https://github.com/user-attachments/assets/2bf4efae-01fa-461a-9d65-2a5eaa2fe976)
+
 - Tích hợp cơ chế truy đuổi của The Devourer và sự xuất hiện của Ghost tạo áp lực: người chơi sai lầm liên tiếp hoặc cạn năng lượng sẽ bị bắt kịp.
 
 ### 3.3. Hệ thống năng lượng, thu thập và tính điểm
@@ -66,12 +69,12 @@
   
 | Vật phẩm          | Mô tả                                                                 | Hình ảnh minh họa |
 |------------------|-----------------------------------------------------------------------|------------------|
-| Wings of Hope    | Cho phép người chơi bay lơ lửng trên các chướng ngại vật               | <img width="120" height="120" alt="ChatGPT Image Dec 21, 2025, 11_11_29 PM" src="https://github.com/user-attachments/assets/50a48a42-085c-4481-b0c0-00aa0062d941" /> |
-| Shadow Bane      | Làm chậm tốc độ truy đuổi của quái vật xuống 50%                       | <img width="120" height="120" alt="ChatGPT Image Dec 21, 2025, 11_14_25 PM" src="https://github.com/user-attachments/assets/d773e438-4d03-4052-85d8-6d85d7c71561" /> |
-| Time Shard       | Làm chậm toàn bộ thế giới (ngoại trừ Kane)                             | <img width="120" height="120" alt="ChatGPT Image Dec 21, 2025, 11_13_44 PM" src="https://github.com/user-attachments/assets/fd901a52-d977-4301-81bb-8b61889de0f0" /> |
-| Score Multiplier | Nhân đôi số xu nhặt được trong thời gian hiệu lực                      | <img width="120" height="120" alt="ChatGPT Image Dec 21, 2025, 11_16_49 PM" src="https://github.com/user-attachments/assets/af24aa21-d7d9-41b4-bad9-24ab2026988c" /> |
-| Magnet Field     | Hút Light Fragment + Light Crystal + Coin trong bán kính gần           |<img width="120" height="120" alt="ChatGPT Image Dec 21, 2025, 11_17_29 PM" src="https://github.com/user-attachments/assets/6d355205-6d51-434b-b68d-baa6888ccc59" />  |
-| Ghost Phase      | Kane trở nên vô hình và có thể xuyên qua các chướng ngại vật           | <img width="120" height="120" alt="GhostPhase" src="https://github.com/user-attachments/assets/e2a44edb-25c5-4e46-97d9-b991e2f90160" /> |
+| Wings of Hope    | Cho phép người chơi bay lơ lửng trên các chướng ngại vật               | <img width="120" height="120" alt="Wings" src="https://github.com/user-attachments/assets/cc688617-18be-4738-a118-4ca8818ef295" /> |
+| Shadow Bane      | Làm chậm tốc độ truy đuổi của quái vật xuống 50%                       | <img width="120" height="120" alt="Shadow " src="https://github.com/user-attachments/assets/32e3b733-d4d7-4501-a452-63fe4556b048" /> |
+| Time Shard       | Làm chậm toàn bộ thế giới (ngoại trừ Kane)                             | <img width="120" height="120" alt="Time" src="https://github.com/user-attachments/assets/f33c2d69-8577-41dd-80ac-1667773474fe" /> |
+| Score Multiplier | Nhân đôi số xu nhặt được trong thời gian hiệu lực                      | <img width="120" height="120" alt="Score" src="https://github.com/user-attachments/assets/a6abc94a-bee9-46f4-941a-1f8e0c3865d9" /> |
+| Magnet Field     | Hút Light Fragment + Light Crystal + Coin trong bán kính gần           | <img width="120" height="120" alt="Magnet" src="https://github.com/user-attachments/assets/c152b5b0-08eb-4d1e-8df9-76f41d3bb31e" /> |
+| Ghost Phase      | Kane trở nên vô hình và có thể xuyên qua các chướng ngại vật           | <img width="120" height="120" alt="Ghost" src="https://github.com/user-attachments/assets/ce8989a8-653a-4967-be1c-13b5257375b4" /> |
 
 
 
@@ -87,7 +90,8 @@
   - Khoảng cách / sinh tồn
   - Hiệu suất chơi
   - Thử thách đặc biệt / online
-<img width="1219" height="968" alt="Screenshot 2025-12-23 171139" src="https://github.com/user-attachments/assets/e56427dd-e279-4573-b269-f9d5a50a6f70" />
+
+![529604878-e56427dd-e279-4573-b269-f9d5a50a6f70](https://github.com/user-attachments/assets/879cd613-6ebb-421a-a396-3fef1f562d71)
 
 - Triển khai hệ thống lưu điểm và hiển thị bảng xếp hạng gồm:
     - **Daily Ranking**: xếp hạng người chơi theo điểm số cao nhất đạt được trong vòng 24 giờ gần nhất.
@@ -95,7 +99,7 @@
     - **Feats Ranking**: xếp hạng dựa trên thành tích.
 - Đảm bảo leaderboard có cơ chế cập nhật điểm sau mỗi ván và lưu “best score”.
 
-<img width="1100" height="975" alt="Screenshot 2025-12-23 171339" src="https://github.com/user-attachments/assets/40f0742d-1891-4fef-b13a-2fb240063ecb" />
+![529605499-40f0742d-1891-4fef-b13a-2fb240063ecb](https://github.com/user-attachments/assets/c974c3f7-cddb-4c5b-9abe-ff6c345b6d70)
 
 ### 3.6. Hệ thống Cửa hàng và Nhân vật
 - Thiết kế **Cửa hàng** sử dụng xu làm tiền tệ trong game:
@@ -104,34 +108,38 @@
   - Lưu trữ và cập nhật dữ liệu xu/vật phẩm sau mỗi lần mua.
   - Mỗi nhân vật có giá mở khóa riêng và trạng thái: Locked / Unlocked.
   - Sau khi mở khóa, nhân vật được lưu vào dữ liệu người chơi để sử dụng cho các lần chơi sau.
-<img width="471" height="455" alt="Screenshot 2025-12-23 194547" src="https://github.com/user-attachments/assets/f0456d5f-03b6-4c37-9120-3db84644789a" />
-<img width="473" height="456" alt="Screenshot 2025-12-23 194727" src="https://github.com/user-attachments/assets/32e91793-de46-4b13-a58e-c2720cb37d89" />
+
+<img src="https://github.com/user-attachments/assets/ee2e3a1f-9d6b-4146-9bb8-32933bf577d6" width="45%"/>
+
+<img src="https://github.com/user-attachments/assets/2c2a72bb-81ce-4bcb-9e7b-4c088210ad87" width="45%"/>
+
 
 - Kho **Nhân vật** cho phép người chơi:
   - Xem danh sách nhân vật, thông tin và trạng thái mở khóa.
   - Đổi nhân vật đang sử dụng trước khi vào gameplay.
   - Đồng bộ nhân vật đang chọn vào màn chơi.
-![Screenshot 2025-12-23 212553](https://github.com/user-attachments/assets/f7228cf0-14c2-47b8-ba66-0b242a6d01ee)
+  
+![529686802-f7228cf0-14c2-47b8-ba66-0b242a6d01ee](https://github.com/user-attachments/assets/34bb7c54-31cb-433f-ab14-81f42c8f583b)
 
 
 ### 3.7. Giao diện và trải nghiệm người dùng
 
 - Thiết kế UI tối giản, dễ thao tác và phù hợp phong cách dark fantasy:
 
-<img src="https://github.com/user-attachments/assets/9c6d5142-1cc7-4973-9720-307b926e0e3a" width="1100" height="1000" />
+![529704218-9c6d5142-1cc7-4973-9720-307b926e0e3a](https://github.com/user-attachments/assets/ce541642-9f03-48fa-b3fc-86adbca095b3)
     
     Login/Register
 
 
-<img width="1919" height="965" alt="Screenshot 2025-12-23 172020" src="https://github.com/user-attachments/assets/64c293cc-48f8-448f-b0d5-35a3ef780243" />
+![main](https://github.com/user-attachments/assets/a7149249-6142-4e69-b525-6006b30422a5)
     
     Menu: Cửa hàng/Nhân vật/nhiệm vụ/Xếp hạng/Cài đặt
 
-<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/9924901c-f633-4dce-a904-60b73606ab3f" />
+![hud](https://github.com/user-attachments/assets/ec885a76-7aa4-45a0-b5a0-5d99bb4992b7)
 
     
     HUD hiển thị energy, điểm, vật phẩm đang kích hoạt
-<img width="1919" height="994" alt="Screenshot 2025-12-23 172220" src="https://github.com/user-attachments/assets/ff6d47f3-e79b-4b76-89dd-b8ae4627d857" />
+![over](https://github.com/user-attachments/assets/0d93f1eb-ada9-4d33-a58f-44c4bd70580d)
     
     Màn hình game over: tổng điểm, quãng đường, phần thưởng, tùy chọn hồi sinh
 
